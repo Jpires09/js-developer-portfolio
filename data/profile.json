@@ -33,11 +33,11 @@
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Comunicação",
-      "Trabalho em equipe",
-      "Flexibilidade",
-      "Organização"
+      "Empaty",
+      "Comunication",
+      "Team Work",
+      "Flexibility",
+      "Analitic View"
     ]
   },
   "languages": [
@@ -67,11 +67,6 @@
       "name": "Parkour And Acrobatics Coach at Ponto b Parkour",
       "period": "2019 - 2023",
       "description": "This is where I learnt my soft skills"
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
     }
   ]
 }
